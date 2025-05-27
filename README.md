@@ -1,8 +1,7 @@
 ## 👋 Hi there, I’m Pankaj Choudhary (@pankaj-choudhary786)
 
 - 👀 I’m passionate about **software development**, **AI/ML**, and exploring the power of **prompt engineering**.
-- 🌱 I’m currently learning advanced topics in **Natural Language Processing (NLP)**, **Generative AI**, and **system design**.
-- Also on the way of becoming a full stack developer.
+- 🌱 I’m currently learning advanced topics in **Natural Language Processing (NLP)**, **Generative AI**, and **system design**. Also on the way of becoming a full stack developer.
 - 💞️ I’m looking to collaborate on **AI-driven applications**, **open-source tools**, and projects involving **prompt optimization and automation**.
 - 📫 How to reach me:  
   📧 pankajkhicharabc3@gmail.com  
