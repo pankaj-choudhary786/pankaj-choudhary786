@@ -99,3 +99,11 @@
 </div>
 
 <br>
+<div align="center">
+  <h3>🐍 My Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-choudhary786/pankaj-choudhary786/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-choudhary786/pankaj-choudhary786/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pankaj-choudhary786/pankaj-choudhary786/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
