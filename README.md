@@ -91,54 +91,6 @@
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center" style="border: none; border-radius: 10px; background: transparent;">
-  <tr>
-    <td width="50%" align="center" style="border: 1px solid #30363D; border-radius: 10px; padding: 20px;">
-      <h3>🌿 SeekAyurveda</h3>
-      <p align="left">A full-stack, AI-based platform for Ayurveda. Features AI chatbots and vision scanners to modernize traditional healthcare ecosystems.</p>
-      <a href="https://github.com/pankaj-choudhary786/SeekAyurveda-project" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="SeekAyurveda Repo" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="border: 1px solid #30363D; border-radius: 10px; padding: 20px;">
-      <h3>🤖 ET-GenAI-Project</h3>
-      <p align="left">A full-stack JavaScript project built for the ET GenAI hackathon. Explores advanced generative AI and RAG capabilities to solve real-world problems.</p>
-      <a href="https://github.com/pankaj-choudhary786/ET-GenAI-Project" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="ET-GenAI Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="border: 1px solid #30363D; border-radius: 10px; padding: 20px;">
-      <h3>🩺 Detailed Diagnostic Report Generator</h3>
-      <p align="left">A fast, JavaScript-based tool designed to automate and generate comprehensive diagnostic reports, streamlining data processing and formatting.</p>
-      <a href="https://github.com/pankaj-choudhary786/Detailed-Diagnostic-Report-Generator" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="Diagnostic Report Repo" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="border: 1px solid #30363D; border-radius: 10px; padding: 20px;">
-      <h3>🤝 FairShare</h3>
-      <p align="left">A collaborative JavaScript project developed for Digital Heroes, focused on building efficient tools for equitable resource distribution and management.</p>
-      <a href="https://github.com/pankaj-choudhary786/FairShare" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repository-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="FairShare Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding-top: 20px;">
-      <h3 align="center">🌟 More on GitHub</h3>
-      <p align="center">Check out my other repositories, recent commits, and ongoing full-stack AI/ML experiments!</p>
-      <a href="https://github.com/pankaj-choudhary786?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_All_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
