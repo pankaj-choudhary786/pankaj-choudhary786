@@ -90,14 +90,7 @@
 </div>
 
 <br>
-<div align="center">
-  <h3>🎮 My Contribution Arcade</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankaj-choudhary786/pankaj-choudhary786/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankaj-choudhary786/pankaj-choudhary786/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pankaj-choudhary786/pankaj-choudhary786/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
