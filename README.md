@@ -23,7 +23,6 @@
       <ul>
         <li>📍 Based in <b>Jaipur, Rajasthan</b>.</li>
         <li>👀 I’m passionate about software development, AI/ML, and exploring the power of prompt engineering.</li>
-        <li>🔭 Developed <b>SeekAyurveda</b>, a full-stack, AI-driven wellness ecosystem.</li>
         <li>🌱 I’m currently learning advanced topics in Natural Language Processing (NLP), Generative AI, and system design. Also on the way of becoming a full stack developer.</li>
         <li>💡 Actively proposing innovative software solutions, OCR integrations, and RAG architectures in technical fests and hackathons.</li>
         <li>💞️ I’m looking to collaborate on AI-driven applications, open-source tools, and projects involving prompt optimization and automation.</li>
