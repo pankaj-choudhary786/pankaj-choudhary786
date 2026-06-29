@@ -26,7 +26,7 @@
         <li>🌱 I’m currently learning advanced topics in Natural Language Processing (NLP), Generative AI, and system design. Also on the way of becoming a full stack developer.</li>
         <li>💡 Actively proposing innovative software solutions, OCR integrations, and RAG architectures in technical fests and hackathons.</li>
         <li>💞️ I’m looking to collaborate on AI-driven applications, open-source tools, and projects involving prompt optimization and automation.</li>
-        <li>💬 Ask me about <b>React, Python, Unity (ARFoundation), full-stack development, or Linux</b>.</li>
+        <li>💬 Ask me about <b>React, Java, Python,  full-stack development, or AI/ML </b>.</li>
         <li>📫 How to reach me: <a href="mailto:pankajkhicharabc3@gmail.com">📧 Email Me</a> | <a href="https://linkedin.com/in/pankaj-kumar-499b86333" target="_blank">🔗 LinkedIn</a></li>
         <li>😄 Pronouns: He/Him</li>
         <li>⚡ Fun fact: I love crafting prompts that make AI do amazing things — it's like giving instructions to a super-intelligent genie! ✨</li>
