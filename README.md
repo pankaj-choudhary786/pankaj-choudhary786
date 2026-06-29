@@ -92,9 +92,74 @@
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj-choudhary786&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj-choudhary786&layout=compact&theme=dracula&hide_border=true" width="48%" />
+</p>
+
+<br>
+
+<h2 align="center">📊 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankaj-choudhary786&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+<br>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pankaj-choudhary786&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+
+
+
+<h2 align="center">💬 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p>
+
+<br>
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+
+<a href="mailto:pankajkhicharabc3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pankaj-kumar-499b86333">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pankaj-choudhary786">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<h2 align="center">⭐ Thanks for visiting my profile!</h2>
+
+<p align="center">
+
+If you like my work, don't forget to ⭐ my repositories.
+
+Let's build something amazing together! 🚀
+
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankaj-choudhary786&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-choudhary786&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+
 </div>
 
 <br>
