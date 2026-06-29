@@ -118,7 +118,7 @@
 
 
 
-<h2 align="center">💬 Random Dev Quote</h2>
+<h2 align="center">💬 Dev Quote i follow</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
@@ -146,15 +146,7 @@
 
 <br>
 
-<h2 align="center">⭐ Thanks for visiting my profile!</h2>
-
-<p align="center">
-
-If you like my work, don't forget to ⭐ my repositories.
-
-Let's build something amazing together! 🚀
-
-</p>
+<h2 align="center">⭐ Thanks for visiting my profile! </h2>
 
 <div align="center">
 
